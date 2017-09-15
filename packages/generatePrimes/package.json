@@ -1,0 +1,30 @@
+{
+  "name": "@quillio/generatePrimes",
+  "version": "0.0.1",
+  "description": "Collection of common data structures",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "cd ./../../ && source build.sh && build generatePrimes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quillio/js-data-structures.git"
+  },
+  "keywords": [
+    "javascript",
+    "generatePrimes"
+  ],
+  "author": "admin@quillio.io",
+  "contributors": [
+    "walkerrandolphsmith@gmail.com"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quillio/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/quillio/js-data-structures#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "@quillio/isPrime": "0.0.1"
+  }
+}

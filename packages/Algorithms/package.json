@@ -1,0 +1,29 @@
+{
+  "name": "@quillio/data-algorithms",
+  "version": "0.0.1",
+  "description": "Collection of common data structures",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd ./../../ && source build.sh && build Algorithms"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quillio/js-data-algorithms.git"
+  },
+  "keywords": [
+    "javascript",
+    "data structures"
+  ],
+  "author": "admin@quillio.io",
+  "contributors": [
+    "walkerrandolphsmith@gmail.com"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quillio/js-data-algorithms/issues"
+  },
+  "homepage": "https://github.com/quillio/js-data-algorithms#readme",
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,1 @@
+# js-algorithms [![Build Status](https://travis-ci.org/Quillio/js-algorithms.svg?branch=master)](https://travis-ci.org/Quillio/js-algorithms)
