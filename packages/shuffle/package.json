@@ -4,8 +4,7 @@
   "description": "Fisher–Yates shuffle",
   "main": "index.js",
   "scripts": {
-    "test": "ava",
-    "build": "babel src --out-dir dist --ignore test.js && uglifyjs ./dist/index.js -o ./dist/index.js"
+    "build": "cd ./../../ && source build.sh && build shuffle"
   },
   "repository": {
     "type": "git",
@@ -22,33 +21,7 @@
     "url": "https://github.com/Quillio/shuffle/issues"
   },
   "homepage": "https://github.com/Quillio/shuffle#readme",
-  "devDependencies": {
-    "ava": "^0.22.0",
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "uglify-js": "^3.1.0"
-  },
-  "babel": {
-    "presets": [
-      "es2015"
-    ]
-  },
-  "ava": {
-    "files": [
-      "src/**/*.test.js"
-    ],
-    "source": [
-      "src/**/*.js"
-    ],
-    "match": [],
-    "concurrency": 5,
-    "failFast": true,
-    "failWithoutAssertions": false,
-    "tap": true,
-    "powerAssert": false,
-    "require": [
-      "babel-register"
-    ],
-    "babel": "inherit"
+  "dependencies": {
+
   }
 }
