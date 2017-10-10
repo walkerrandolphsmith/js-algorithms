@@ -1,14 +1,14 @@
 {
   "name": "@quillio/shuffle",
   "version": "1.0.0",
-  "description": "Fisher–Yates shuffle",
+  "description": "Common algorithms",
   "main": "index.js",
   "scripts": {
     "build": "cd ./../../ && source build.sh && build shuffle"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quillio/shuffle.git"
+    "url": "git+https://github.com/Quillio/js-algorithms.git"
   },
   "keywords": [
     "Fish-Yates",
@@ -18,9 +18,9 @@
   "contributors": ["walkerrandolphsmith@gmail.com"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Quillio/shuffle/issues"
+    "url": "https://github.com/Quillio/js-algorithms/issues"
   },
-  "homepage": "https://github.com/Quillio/shuffle#readme",
+  "homepage": "https://github.com/Quillio/js-algorithms#readme",
   "dependencies": {
 
   }

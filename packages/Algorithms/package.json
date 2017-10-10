@@ -1,7 +1,7 @@
 {
   "name": "@quillio/data-algorithms",
   "version": "0.0.1",
-  "description": "Collection of common data structures",
+  "description": "Common algorithms",
   "main": "index.js",
   "scripts": {
     "build": "cd ./../../ && source build.sh && build Algorithms"

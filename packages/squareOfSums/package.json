@@ -1,14 +1,14 @@
 {
   "name": "@quillio/squareOfSums",
   "version": "0.0.1",
-  "description": "Collection of common data structures",
+  "description": "Common algorithms",
   "main": "dist/index.js",
   "scripts": {
     "build": "cd ./../../ && source build.sh && build squareOfSums"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quillio/js-data-structures.git"
+    "url": "git+https://github.com/quillio/js-algorithms.git"
   },
   "keywords": [
     "javascript",
@@ -20,9 +20,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/quillio/js-data-structures/issues"
+    "url": "https://github.com/quillio/js-algorithms/issues"
   },
-  "homepage": "https://github.com/quillio/js-data-structures#readme",
+  "homepage": "https://github.com/quillio/js-algorithms#readme",
   "dependencies": {
 
   }

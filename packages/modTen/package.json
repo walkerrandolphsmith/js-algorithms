@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quillio/modTen.git"
+    "url": "git+https://github.com/Quillio/js-algorithms.git"
   },
   "keywords": [
     "Luhn algorithm",
@@ -19,9 +19,9 @@
   "contributors": ["walkerrandolphsmith@gmail.com"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Quillio/modTen/issues"
+    "url": "https://github.com/Quillio/js-algorithms/issues"
   },
-  "homepage": "https://github.com/Quillio/modTen#readme",
+  "homepage": "https://github.com/Quillio/js-algorithms#readme",
   "dependencies": {
 
   }
